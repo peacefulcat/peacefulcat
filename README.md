@@ -1,7 +1,7 @@
 <!-- 顶部横幅，可选。可以去掉这行，或换成你喜欢的图片 -->
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:10b981&height=200&section=header&text=Hi,%20I'm%20[你的名字]&fontSize=40&fontColor=ffffff&animation=fadeIn) -->
 
-<h1 align="center">Hi, I'm [peacefulcat] 🧪⚾</h1>
+<h1 align="center">Hi, I'm peacefulcat. 🧪⚾</h1>
 
 <p align="center">
   <b>南开大学 · 化学系 × 软件学院（双学位）</b><br>
